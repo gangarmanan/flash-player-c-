@@ -1,0 +1,16 @@
+c:\users\manan\documents\visual studio 2013\Projects\flash player\flash player\bin\Debug\flash player.exe.config
+c:\users\manan\documents\visual studio 2013\Projects\flash player\flash player\obj\Debug\Interop.ShockwaveFlashObjects.dll
+c:\users\manan\documents\visual studio 2013\Projects\flash player\flash player\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+c:\users\manan\documents\visual studio 2013\Projects\flash player\flash player\obj\Debug\flash player.vbproj.ResolveComReference.cache
+c:\users\manan\documents\visual studio 2013\Projects\flash player\flash player\obj\Debug\flash_player.Form1.resources
+c:\users\manan\documents\visual studio 2013\Projects\flash player\flash player\obj\Debug\flash_player.Resources.resources
+c:\users\manan\documents\visual studio 2013\Projects\flash player\flash player\obj\Debug\flash_player.Openbyurl.resources
+c:\users\manan\documents\visual studio 2013\Projects\flash player\flash player\obj\Debug\flash player.vbproj.GenerateResource.Cache
+c:\users\manan\documents\visual studio 2013\Projects\flash player\flash player\bin\Debug\flash player.exe
+c:\users\manan\documents\visual studio 2013\Projects\flash player\flash player\bin\Debug\flash player.pdb
+c:\users\manan\documents\visual studio 2013\Projects\flash player\flash player\bin\Debug\flash player.xml
+c:\users\manan\documents\visual studio 2013\Projects\flash player\flash player\bin\Debug\Interop.ShockwaveFlashObjects.dll
+c:\users\manan\documents\visual studio 2013\Projects\flash player\flash player\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+c:\users\manan\documents\visual studio 2013\Projects\flash player\flash player\obj\Debug\flash player.exe
+c:\users\manan\documents\visual studio 2013\Projects\flash player\flash player\obj\Debug\flash player.xml
+c:\users\manan\documents\visual studio 2013\Projects\flash player\flash player\obj\Debug\flash player.pdb
